@@ -1,2 +1,2 @@
-# LeadsTracker
-A Chrome extension
+# Leads Tracker
+A Chrome extension to save links.
